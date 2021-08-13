@@ -6,11 +6,7 @@
     <description>Recent content in Home on TravelWithRivera</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://travelwithrivera.github.io/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://travelwithrivera.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2020 曼谷</title>
       <link>https://travelwithrivera.github.io/home/2020-bankok/</link>
@@ -89,6 +85,33 @@
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://travelwithrivera.github.io/home/2017-guangxi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2020 很久不见广州</title>
+      <link>https://travelwithrivera.github.io/home/2020-guangzhou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://travelwithrivera.github.io/home/2020-guangzhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2020 长沙</title>
+      <link>https://travelwithrivera.github.io/home/2020-changsha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://travelwithrivera.github.io/home/2020-changsha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2021 上海</title>
+      <link>https://travelwithrivera.github.io/home/2021-shanghai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://travelwithrivera.github.io/home/2021-shanghai/</guid>
       <description></description>
     </item>
     
